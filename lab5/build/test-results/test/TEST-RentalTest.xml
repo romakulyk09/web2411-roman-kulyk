@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RentalTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-06-05T16:41:48.770Z" hostname="Romas-MacBook-Pro.local" time="0.058">
+  <properties/>
+  <testcase name="testLatePenalty()" classname="RentalTest" time="0.026"/>
+  <testcase name="testTruckDailyRate()" classname="RentalTest" time="0.001"/>
+  <testcase name="testRentalTotalCostWithFullInsurance()" classname="RentalTest" time="0.002"/>
+  <testcase name="testSedanDailyRate()" classname="RentalTest" time="0.001"/>
+  <testcase name="testSportsCarDailyRate()" classname="RentalTest" time="0.002"/>
+  <testcase name="testNoPenalty()" classname="RentalTest" time="0.001"/>
+  <testcase name="testRentalTotalCostNoInsuranceNoPenalty()" classname="RentalTest" time="0.001"/>
+  <testcase name="testDamagePenalty()" classname="RentalTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
