@@ -1,4 +1,3 @@
-// Pure Fabrication: не частина предметної області, але потрібен для логування
 public class RentalLogger {
 
     public void logBooking(String clientName, String carModel) {
